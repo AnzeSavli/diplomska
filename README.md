@@ -153,3 +153,7 @@
 > **</br>Opombe:** Če je termin zasede, ga aplikacija doda v čakalno vrsto. Polnilnica za goste je posebaj in je vidna brez prijave.
 > **</br>Sprejemni testi:** Termini morajo zadoščati omejitvam polnilnice (št. zaproednih rezervacij)
 </details>
+
+# Diplomska naloga - Diagram uporab
+
+![Diagram uporab](diagram.png)
