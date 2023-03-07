@@ -1,9 +1,14 @@
 # Diplomska naloga - uporabniške zgodbe
-## Template:
-> Title
-> Priority
-> Estimate
-> User story
-> Opombe
-> Acceptance criteria:
+<details>
+<summary><b>Title</b></summary>
 
+> Priority: **1**
+
+> Estimate: **1**
+
+> User story
+
+> Opombe
+
+> Acceptance criteria:
+</details>
