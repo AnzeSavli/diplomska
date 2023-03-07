@@ -66,6 +66,7 @@
 
 <details>
 <summary><b>Administrator podjetja</b></summary>
+
 ## 1. Registracija
 
 > **Prioriteta:** 1
@@ -108,6 +109,7 @@
 </details>
 <details>
 <summary><b>Uporabnik</b></summary>
+
 ## 1. Registracija
 
 > **Prioriteta:** 1
@@ -142,6 +144,7 @@
 </details>
 <details>
 <summary><b>Gost</b></summary>
+
 ## 1. Rezervacija termina
 
 > **Prioriteta:** 1
