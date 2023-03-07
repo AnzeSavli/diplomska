@@ -50,7 +50,7 @@
 ## 4. Kreiranje administratorja podjetja
 
 > **Prioriteta:** 1
-> </br>**Ocena:** 5
+> </br>**Ocena:** 4
 > </br>**Zgodba:** Administrator stavbe lahko kreira administratorja podjetja in mu povezavo za registracijo pošlje na e-mail.
 > </br>**Opombe:** /
 > </br>**Sprejemni testi:** Administratorju podjetja določi le email.
@@ -86,7 +86,7 @@
 ## 3. Kreiranje uporabnika
 
 > **Prioriteta:** 1
-> </br>**Ocena:** 5
+> </br>**Ocena:** 4
 > </br>**Zgodba:** Administrator podjetja lahko kreira uporabnika in mu povezavo za registracijo pošlje na e-mail.
 > </br>**Opombe:** /
 > </br>**Sprejemni testi:** Uporabniku določi le email.
@@ -94,7 +94,7 @@
 ## 4. Sproščanje terminov
 
 > **Prioriteta:** 1
-> </br>**Ocena:** 5
+> </br>**Ocena:** 4
 > </br>**Zgodba:** Administrator podjetja, lahko kadarkoli sprosti termin.
 > </br>**Opombe:** /
 > </br>**Sprejemni testi:** Uporabnik z rezerviranim terminom, dobi email o spremembi.
@@ -102,7 +102,7 @@
 ## 5. Izdaja RFID kartice
 
 > **Prioriteta:** 1
-> </br>**Ocena:** 5
+> </br>**Ocena:** 4
 > </br>**Zgodba:** Administrator podjetja, uporabniku generira rfid kartico
 > </br>**Opombe:** /
 > </br>**Sprejemni testi:** Uporabnik z rfid kartico lahko uporablja polnilnico.
