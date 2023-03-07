@@ -1,1 +1,2 @@
-# diplomska
+# Diplomska naloga - uporabniške zgodbe
+## Template:
